@@ -1,11 +1,10 @@
 
 numpy
-scipy
 matplotlib
-pandas
-torch
-tensorflow
-deepxde
+scipy
+scikit-learn
 pysindy
 pydmd
-scikit-learn
+torch
+deepxde
+
