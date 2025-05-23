@@ -1,1 +1,11 @@
 
+numpy
+scipy
+matplotlib
+pandas
+torch
+tensorflow
+deepxde
+pysindy
+pydmd
+scikit-learn
