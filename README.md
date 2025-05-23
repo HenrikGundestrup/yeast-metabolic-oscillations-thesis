@@ -8,7 +8,6 @@ University of Southern Denmark
 Author: Henrik Helge Gundestrup  
 Supervisor: Daniel Wüstner  
 
-
 ---
 
 ## 📘 Thesis Summary
@@ -24,5 +23,9 @@ The models are trained and evaluated on experimental data from Wüstner et al. (
 
 ---
 
-## 📁 Repository Structure
+## 📂 Data Availability
+
+Experimental data used in this project will be made available upon reasonable request.  
+Please contact: **hegun20@student.sdu.dk**
+
 
